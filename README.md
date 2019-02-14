@@ -1,2 +1,2 @@
-# spring-boot-jap
+# spring-boot-jpa
 springBoot和JPA的简单demo
