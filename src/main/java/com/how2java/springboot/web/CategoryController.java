@@ -57,4 +57,5 @@ public class CategoryController {
         m.addAttribute("c", c);
         return "editCategory";
     }
+    //hello
 }
